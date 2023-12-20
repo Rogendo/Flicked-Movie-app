@@ -1,4 +1,4 @@
-# flicked_app
+# Flicked Movie App
 
 A new Flutter project.
 
